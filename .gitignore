@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+data/
+.local_non_submission/
